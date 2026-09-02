@@ -32,7 +32,7 @@ Fundador y Lead Engineer en **[TechDX](https://techdx.com.co)** (*Design & Xperi
 
 - 🚀 **Construyendo actualmente:** **[Kinetix OS](https://kinetix-os.app)** (SaaS multi-tenant para clínicas de recuperación deportiva y centros fitness en AWS).
 - 🏨 **En producción:** **[Roomly PMS](https://hotelgalan.techdx.com.co)** (Sistema de gestión hotelera y facturación electrónica en la nube).
-- 🧠 **Enfoque técnico:** Arquitectura Cloud (AWS sa-east-1), Laravel / PHP moderno, TypeScript, Astro, Three.js interactivo y sistemas multi-agente autónomos.
+- 🧠 **Enfoque técnico:** Arquitectura Cloud , Laravel / PHP moderno, TypeScript, Astro, Three.js interactivo y sistemas multi-agente autónomos.
 - 📍 **Ubicación:** Antioquia, Colombia 🇨🇴
 
 ---
