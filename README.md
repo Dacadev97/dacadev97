@@ -84,18 +84,19 @@ Fundador y Lead Engineer en **[TechDX](https://techdx.com.co)** (*Design & Xperi
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Dacadev97&show_icons=true&theme=radical&bg_color=0d1117&title_color=2dd4bf&text_color=e6edf3&icon_color=690058&border_color=30363d&hide_border=false" alt="Dacadev97 GitHub Stats" height="165" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Dacadev97&show_icons=true&theme=radical&bg_color=0d1117&title_color=2dd4bf&text_color=e6edf3&icon_color=690058&border_color=30363d&hide_border=false" alt="Dacadev97 GitHub Stats" height="165" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dacadev97&layout=compact&theme=radical&bg_color=0d1117&title_color=2dd4bf&text_color=e6edf3&border_color=30363d&hide_border=false" alt="Top Languages" height="165" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dacadev97&layout=compact&theme=radical&bg_color=0d1117&title_color=2dd4bf&text_color=e6edf3&border_color=30363d&hide_border=false" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dacadev97&theme=radical&background=0D1117&border=30363D&stroke=2DD4BF&ring=690058&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub Streak" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=Dacadev97&theme=radical&background=0D1117&border=30363D&stroke=2DD4BF&ring=690058&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub Streak" width="95%" />
 </div>
+
 
 ---
 
