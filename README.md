@@ -82,24 +82,33 @@ Fundador y Lead Engineer en **[TechDX](https://techdx.com.co)** (*Design & Xperi
 
 ---
 
-### 📊 Actividad & Métricas en GitHub
+### 🚀 Métricas de Impacto & Arquitectura en Producción
+
+| Métrica de Ingeniería | Impacto / Alcance Real | Estándar / Entorno |
+| :--- | :--- | :--- |
+| ☁️ **Arquitectura Multi-Tenant** | Aislamiento por Tenant + DB Serverless | AWS ECS Fargate + Aurora Postgres Serverless v2 |
+| 🧪 **Cobertura de Pruebas (TDD)** | **450+ Tests Unitarios & Feature** | Pest PHP + CI/CD en GitHub Actions |
+| ⚡ **Optimización Operativa** | **-98% en tiempo de cierre nocturno** | De 150 min a <3 min en PMS Hotelero |
+| 🎯 **Rendimiento Web (CWV)** | **100/100 Lighthouse · TTFB < 200ms** | Astro 5 + Tailwind CSS + Three.js Procedural |
+| 💳 **Fintech & Facturación** | **Pasarela Wompi COP + Facturación DIAN** | Webhooks seguros, idempotencia y firma digital |
+
+---
+
+### 🏛️ Especialidades & Filosofía de Ingeniería
+
+- 🧱 **Clean Architecture & SOLID:** Separación estricta de capas, DTOs tipados, interfaces y servicios de dominio desacoplados.
+- 🧪 **Test-Driven Development (TDD):** Cobertura exhaustiva en cada feature antes de producción con Pest PHP y GitHub Actions.
+- ☁️ **Infrastructure as Code (IaC):** Infraestructura reproducible con **Terraform**, contenedores **Docker** y monitoreo CloudWatch.
+- 🤖 **Agentes & Microservicios:** Integración de APIs complejas (WhatsApp Business API, OpenAI/Gemini, Wompi, DIAN).
+
+---
+
+### 📊 Lenguajes Más Utilizados en Repositorios
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=Dacadev97&show_icons=true&theme=radical&bg_color=0d1117&title_color=2dd4bf&text_color=e6edf3&icon_color=690058&border_color=30363d&hide_border=false" alt="Dacadev97 GitHub Stats" height="165" />
-      </td>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dacadev97&layout=compact&theme=radical&bg_color=0d1117&title_color=2dd4bf&text_color=e6edf3&border_color=30363d&hide_border=false" alt="Top Languages" height="165" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <img src="https://streak-stats.demolab.com/?user=Dacadev97&theme=radical&background=0D1117&border=30363D&stroke=2DD4BF&ring=690058&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub Streak" width="95%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dacadev97&layout=compact&theme=radical&bg_color=080c14&title_color=0df2c9&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Top Languages Dacadev97" />
 </div>
+
 
 
 ---
