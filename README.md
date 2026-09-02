@@ -1,7 +1,8 @@
 <div align="center">
   
   <!-- Encabezado con Tipografía Dinámica (Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=690058&height=210&section=header&text=Davidson%20Cadavid&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20Software%20Architect%20%7C%20Full-Stack%20%26%20Cloud%20Engineer&descFontSize=16&descAlignY=62&descColor=2dd4bf" width="100%" alt="Davidson Cadavid Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=690058&height=210&section=header&text=Davidson%20Cadavid&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20Software%20Architect%20%7C%20Full-Stack%20and%20Cloud%20Engineer&descFontSize=16&descAlignY=62&descColor=2dd4bf" width="100%" alt="Davidson Cadavid Header" />
+
 
   <br />
 
