@@ -8,19 +8,23 @@
 
   <!-- Insignias de Contacto Rápido -->
   <p align="center">
+    <a href="https://dacadev97.github.io/portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio_Live-dacadev97.github.io-0df2c9?style=for-the-badge&logo=astro&logoColor=black" alt="Portafolio Live" />
+    </a>
     <a href="https://techdx.com.co" target="_blank">
-      <img src="https://img.shields.io/badge/Sitio_Web-techdx.com.co-690058?style=for-the-badge&logo=google-chrome&logoColor=white" alt="TechDX Website" />
+      <img src="https://img.shields.io/badge/TechDX_Hub-techdx.com.co-690058?style=for-the-badge&logo=google-chrome&logoColor=white" alt="TechDX Website" />
+    </a>
+    <a href="https://wa.me/573025493246" target="_blank">
+      <img src="https://img.shields.io/badge/WA_Personal-+57_302_549_3246-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Personal" />
     </a>
     <a href="https://wa.me/573181827743" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-+57_318_182_7743-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Corporativo" />
+      <img src="https://img.shields.io/badge/WA_Corp-+57_318_182_7743-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Corporativo" />
     </a>
     <a href="https://linkedin.com/in/davidson-cadavid" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Davidson_Cadavid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:davidson.cadavid@techdx.com.co">
-      <img src="https://img.shields.io/badge/Email-davidson.cadavid@techdx.com.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
   </p>
+
 
 </div>
 
